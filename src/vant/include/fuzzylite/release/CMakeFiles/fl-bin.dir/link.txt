@@ -1,0 +1,1 @@
+/usr/bin/c++   -pedantic -Wall -Wextra  -O3 -DNDEBUG   CMakeFiles/fl-bin.dir/src/main.cpp.o  -o bin/fuzzylite -rdynamic bin/libfuzzylite.so.6.0 -Wl,-rpath,/home/laic/fuzzylite/fuzzylite/release/bin: 
