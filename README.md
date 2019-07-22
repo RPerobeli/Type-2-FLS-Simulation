@@ -1,2 +1,3 @@
 # Type-2-FLS-Simulation
-Archives for a Type-2 Fuzzy Logic System SITL Simulation
+UAV autonomous target landing via Type-2 Fuzzy Logic System controller.
+
